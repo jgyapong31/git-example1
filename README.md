@@ -2,7 +2,9 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
-
+my name is Justice
+I live in allentown Pa
+I have complet
 Things you may want to cover:
 
 * Ruby version
